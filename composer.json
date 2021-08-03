@@ -8,7 +8,7 @@
     "require": {
         "php": ">=7.3",
         "spryker/price-product-volume": "^3.3.0",
-        "spryker/product-merchant-portal-gui": "^0.10.0"
+        "spryker/product-merchant-portal-gui": "^0.11.0"
     },
     "extra": {
         "branch-alias": {
