@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant Portal Product Management
 
-
+Merchants can manage their products in Merchant Portal.
 
 ## Installation
 
