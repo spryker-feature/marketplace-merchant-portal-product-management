@@ -15,4 +15,4 @@ composer require spryker-feature/marketplace-merchant-portal-product-management
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductMerchantPortalGuiExtension ^0.1.1](https://github.com/spryker/product-merchant-portal-gui-extension) (Extension)
+- [ProductMerchantPortalGuiExtension ^1.0.0](https://github.com/spryker/product-merchant-portal-gui-extension) (Extension)
