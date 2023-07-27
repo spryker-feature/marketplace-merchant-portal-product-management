@@ -2,6 +2,8 @@
 
 Merchants can manage their products in Merchant Portal.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/marketplace/install-and-upgrade/install-features/install-the-merchant-portal-marketplace-product-feature.html)
+
 ## Installation
 
 ```
